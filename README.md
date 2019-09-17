@@ -1,0 +1,1 @@
+#nojs-side-by-side
