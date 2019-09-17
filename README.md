@@ -17,3 +17,7 @@ javascript:!function(){var e=document.createElement("style");e.innerHTML="\n  .s
 ## Known Issues
 
 Sites with X-Frame-Options: deny header will not work with this bookmarklet.
+
+## Contact
+
+Questions? Contact me on Twitter [@defaced](https://www.twitter.com/defaced)
